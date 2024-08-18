@@ -1,0 +1,168 @@
+    0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navbar .logo h1 {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.navbar .highlight {
+    color: #ff6b00;
+}
+
+.navbar .login-container .login {
+    text-decoration: none;
+    font-size: 1rem;
+    color: #ff6b00;
+    font-weight: bold;
+}
+
+/* Sidebar styles */
+.sidebar {
+    width: 250px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: -250px;
+    background-color: #ff6b00;
+    padding: 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+.sidebar.active {
+    left: 0;
+}
+
+.sidebar .close-btn {
+    font-size: 2rem;
+    color: #fff;
+    cursor: pointer;
+    text-align: right;
+}
+
+.sidebar ul {
+    list-style: none;
+    margin-top: 30px;
+}
+
+.sidebar ul li {
+    margin-bottom: 20px;
+}
+
+.sidebar ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+.sidebar .join-us {
+    text-decoration: none;
+    background-color: #fff;
+    color: #ff6b00;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 30px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+/* Hero section styles */
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background-color: #fff;
+    background-image: url('hero-background.jpg'); /* Replace with your image */
+    background-size: cover;
+    background-position: center;
+    color: #333;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    color: #666;
+}
+
+.cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.cta {
+    text-decoration: none;
+    padding: 15px 30px;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.create-account {
+    background-color: #ff6b00;
+}
+
+.take-quiz {
+    background-color: #333;
+}
+
+/* Courses section styles */
+.courses {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f9f3f1;
+}
+
+.courses h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.courses p {
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 40px;
+}
+
+.course-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.course-card {
+    width: 150px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.course-icon {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.course-card h3 {
+    font-size: 1.2rem;
+    color: #333;
+}
+
+/* Ripple effect */
+@keyframes ripple-effect {
+    0% {
+        transform: scale(0);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(4);
+        opacity: 0;
+    }
+}

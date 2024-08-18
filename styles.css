@@ -1,20 +1,19 @@
-/* Reset some basic styles */
+/* Basic reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Basic body styling */
 body {
     font-family: Arial, sans-serif;
     background-color: #f9f3f1;
     color: #333;
     position: relative;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
-/* Header styling */
+/* Navbar styles */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -24,24 +23,70 @@ body {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-/* Menu styling */
-.menu {
-    order: 1; /* Make sure the menu icon is on the left end */
-}
-
 .menu-icon {
     font-size: 24px;
     cursor: pointer;
-    margin-left: 10px; /* Adjust margin if needed */
 }
 
-/* Logo styling */
-.logo {
-    order: 2; /* Keep the logo centered between menu and login */
-    margin-left: auto;
-    margin-right: auto;
+/* Sidebar styles */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: -250px;
+    width: 250px;
+    height: 100%;
+    background-color: #fff;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    transition: left 0.3s ease;
+    z-index: 1000;
 }
 
+.sidebar.open {
+    left: 0;
+}
+
+.close-btn {
+    font-size: 24px;
+    cursor: pointer;
+    text-align: right;
+}
+
+.sidebar ul {
+    list-style: none;
+    margin-top: 20px;
+}
+
+.sidebar ul li {
+    margin-bottom: 20px;
+}
+
+.sidebar ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.join-us {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.join-us:hover {
+    background-color: #555;
+}
+
+/* Logo and login container styles */
 .logo h1 {
     font-size: 24px;
     font-weight: bold;
@@ -51,17 +96,12 @@ body {
     color: #f5a623; /* Customize this color to match the "9ja" color */
 }
 
-/* Login styling */
-.login-container {
-    order: 3; /* Keep the login on the right end */
-}
-
-.login {
+.login-container .login {
     font-size: 16px;
     color: #333;
     text-decoration: none;
     font-weight: bold;
-    margin-right: 10px; /* Adjust margin if needed */
+    margin-right: 10px;
 }
 
 /* Hero section styling */
@@ -109,6 +149,50 @@ body {
 
 .take-quiz .quiz-icon {
     margin-left: 5px;
+}
+/* Courses section styles */
+.courses {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f9f3f1;
+}
+
+.courses h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.courses p {
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 40px;
+}
+
+.course-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.course-card {
+    width: 150px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.course-icon {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.course-card h3 {
+    font-size: 1.2rem;
+    color: #333;
 }
 
 /* Ripple effect styling */

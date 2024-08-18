@@ -1,17 +1,20 @@
+// Ripple effect script
 document.body.addEventListener('click', function(e) {
-  // Create a new span element for the ripple effect
-  const ripple = document.createElement('span');
-  ripple.className = 'ripple';
+    const ripple = document.createElement('span');
+    ripple.className = 'ripple';
+    ripple.style.left = `${e.clientX - 50}px`;
+    ripple.style.top = `${e.clientY - 50}px`;
+    document.body.appendChild(ripple);
+    ripple.addEventListener('animationend', function() {
+        ripple.remove();
+    });
+});
 
-  // Set the ripple position based on the click position
-  ripple.style.left = `${e.clientX - 50}px`;
-  ripple.style.top = `${e.clientY - 50}px`;
+// Sidebar toggle script
+document.getElementById('menu-icon').addEventListener('click', function() {
+    document.getElementById('sidebar').classList.add('open');
+});
 
-  // Append the ripple to the body
-  document.body.appendChild(ripple);
-
-  // Remove the ripple after the animation ends
-  ripple.addEventListener('animationend', function() {
-    ripple.remove();
-  });
+document.getElementById('close-btn').addEventListener('click', function() {
+    document.getElementById('sidebar').classList.remove('open');
 });
