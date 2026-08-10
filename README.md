@@ -8,8 +8,8 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=6366F1&labelColor=black&label=FOLLOWERS"/>
+<img src="https://komarev.com/ghpvc/?username=Awoyelevictor&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Awoyelevictor?style=for-the-badge&color=6366F1&labelColor=black&label=FOLLOWERS"/>
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-success?style=for-the-badge&labelColor=black"/>
 
 </div>
@@ -166,20 +166,20 @@ My personal portfolio, built with React to showcase all of the above.
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Awoyelevictor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awoyelevictor&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Awoyelevictor&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Awoyelevictor&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Awoyelevictor&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
 <br>
@@ -187,7 +187,7 @@ My personal portfolio, built with React to showcase all of the above.
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Awoyelevictor/Awoyelevictor/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <br>
