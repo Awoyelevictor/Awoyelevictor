@@ -1,73 +1,143 @@
-![logo](https://raw.githubusercontent.com/Awoyelevictor/Awoyelevictor/main/Github%20Banner.png)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Awoyele Victor Ayomide</h1>
-<h3 align="center">A passionate Computer Science Student and Aspiring Software Engineer from Nigeria</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hi%20There,%20I'm%20Victor%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20in%20Training&descAlignY=55&descSize=18" width="100%"/>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Awoyelevictor&label=Profile%20views&color=0e75b6&style=flat" alt="Awoyelevictor" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/Awoyelevictor](https://github.com/Awoyelevictor)
-
-- ⚡ Fun fact **I am funny😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashutosh mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-</p>
-
-<h3 align="left">Support:</h3>
-<p>
-<a href="https://www.buymeacoffee.com/simplified"> 
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /> 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+practical+software+that+solves+real+problems;Learning+the+MERN+Stack+one+project+at+a+time;Exploring+AI-powered+applications;Curious+about+Cybersecurity+%26+Ethical+Hacking;Turning+ideas+into+working+software" alt="Typing SVG" />
 </a>
-</p><br><br>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Awoyelevictor&show_icons=true&locale=en&layout=compact" alt="Awoyelevictor" />
-</p>
+</div>
 
-<p>
-&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Awoyelevictor&show_icons=true&locale=en" alt="Awoyelevictor" />
-</p>
+<br>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Awoyelevictor&" alt="Awoyelevictor" />
-</p>
+## 👋 About Me
+
+I'm a **Computer Science student from Nigeria**, currently in my final year and completing SIWES (Industrial Training). I enjoy building practical software that solves real-world problems, and I learn best by *building* — not just reading docs.
+
+My current focus is becoming a **full-stack software engineer**, while exploring **artificial intelligence** and **ethical hacking** on the side.
+
+```txt
+const victor = {
+    role: "Computer Science Student",
+    location: "Nigeria 🇳🇬",
+    status: "Final-year undergraduate | SIWES in progress",
+    focus: "Full-Stack Web Development",
+    exploring: ["Artificial Intelligence", "Cybersecurity", "Ethical Hacking"],
+    philosophy: "Learn by building, not just reading"
+};
+```
+
+<br>
+
+## 🛠 Tech Stack
+
+**What I use confidently:**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,vscode&theme=dark" />
+</div>
+
+<br>
+
+**What I'm currently learning and building with:**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python&theme=dark" />
+</div>
+
+<br>
+
+**Other tools:**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postman,figma,canva&theme=dark" />
+</div>
+
+<br>
+
+## 🌱 Currently Learning
+
+- 🚧 Advanced JavaScript & the React ecosystem
+- 🚧 MERN Stack (MongoDB, Express, React, Node.js)
+- 🚧 API development
+- 🤖 Artificial Intelligence & Machine Learning fundamentals
+- 🔐 Cybersecurity & Ethical Hacking
+- 🏗️ System Design
+
+<br>
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🩺 **Health Management System** | Web app for managing patient/health records |
+| 📦 **Inventory Management System** | System for tracking stock and inventory |
+| 🎓 **Student Attendance System** | QR-code based attendance tracking for students |
+| 🧑‍🎓 **Student Management System** | Platform for managing student records |
+| 🪪 **ID Card Generator** | Tool for generating ID cards |
+| 💼 **Portfolio Website** | Personal portfolio built with React |
+
+<br>
+
+## 🎯 Career Goals
+
+- 🚀 Become a Software Engineer building AI-powered products
+- 🌍 Build products that solve African challenges
+- 🤝 Contribute to Open Source
+- ☁️ Learn Cloud Computing & DevOps
+- 🛡️ Become a Cybersecurity professional
+- 🏢 Start my own tech company
+
+<br>
+
+## ��� GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<br>
+
+## 🤝 Open to Collaborate On
+
+`Open Source` `React Projects` `AI Projects` `Student Projects` `Startup Ideas` `Full-Stack Applications`
+
+<br>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+<a href="mailto:YOUR_EMAIL" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a> 
+<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a> 
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
+
+</div>
