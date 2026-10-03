@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:22D3EE&height=300&section=header&text=Hey,%20I'm%20Victor%20⚡&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Tinkerer%20%E2%80%A2%20Future%20Hacker%20(White%20Hat)&descAlignY=52&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:22D3EE&height=300&section=header&text=Hey,%20I'm%20Victor%20⚡&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Startup%20Founder%20in%20the%20Making&descAlignY=52&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=const+victor+%3D+require('caffeine')%3B;Building+practical+software+that+solves+real+problems;Learning+the+MERN+Stack+one+project+at+a+time;Exploring+AI-powered+applications+%F0%9F%A4%96;Curious+about+Cybersecurity+%26+Ethical+Hacking+%F0%9F%94%90;Turning+ideas+into+working+software;git+commit+-m+%22still+learning%22" alt="Typing SVG" />
