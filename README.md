@@ -22,7 +22,7 @@
 name: Victor
 location: Nigeria 🇳🇬
 role: Computer Science Student (Final Year)
-status: SIWES (Industrial Training) in progress
+status: Final-Year Project in progress
 mission: Build practical software that solves real-world problems
 method: Learn by shipping, not by reading docs
 currently_exploring:
