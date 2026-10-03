@@ -174,20 +174,16 @@ My personal portfolio, built with React to showcase all of the above.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awoyelevictor&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Awoyelevictor&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Awoyelevictor&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
-<br>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Awoyelevictor/Awoyelevictor/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awoyelevictor/Awoyelevictor/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awoyelevictor/Awoyelevictor/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Awoyelevictor/Awoyelevictor/output/github-snake.svg" width="100%">
+</picture>
+
 </div>
 
 <br>
